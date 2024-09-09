@@ -6,11 +6,11 @@
 .container {
     width: var(--default-layout-width);
     min-height: 1000px;
-    background-color: #333;
+
     display: flex;
 }
 .content {
     flex: 1;
-    background-color: azure;
+
     min-height: 1000px;
 }
